@@ -38,8 +38,8 @@ Otherwise you will need to set environment variables before running `reportingap
 
 ## Arguments
 
-    1. -s, --start_datetime  # Date (and time) from which to begin the report
-    2. -e, --end_datetime   # If specified, end of date-time range for which to pull findings.
+    1. -s, --start_datetime  # Date (and time) from which to begin the report (e.g. "2025-01-01")
+    2. -e, --end_datetime   # If specified, end of date-time range for which to pull findings (e.g. "2025-01-31 23:59:59").
 
 ## Notes
 
